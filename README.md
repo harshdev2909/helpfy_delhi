@@ -29,15 +29,11 @@ Connects clients and freelancers through smart contracts, decentralized payments
 - **Next.js** – React framework for fast frontend development  
 - **Solana Web3.js** – Solana client for on-chain interactions  
 - **TypeScript** – Type-safe development  
-- **Anchor (optional)** – For easier Solana smart contract development (if used)
+
 
 ---
 
-## 📸 Screenshots
 
-> *(Include screenshots or GIFs of your UI if available)*
-
----
 
 ## 📦 Getting Started
 
